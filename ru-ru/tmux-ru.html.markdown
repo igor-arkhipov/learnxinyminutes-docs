@@ -241,7 +241,7 @@ set -g status-right "#[fg=green] | #[fg=white]#(tmux-mem-cpu-load)#[fg=green] | 
 
 ### Ссылки
 
-[Tmux | Домашняя страница](http://tmux.sourceforge.net)
+[Tmux | Домашняя страница](https://github.com/tmux/tmux/wiki)
 
 [Страница мануала Tmux](http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man1/tmux.1?query=tmux)
 
